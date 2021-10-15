@@ -1,2 +1,42 @@
 # itp1-solutions
 AOJ 「Introduction To Programming I」解答例
+- [【ITP1_1_A】hello_world](ITP1_1_A/hello_world.md)
+  - **標準出力** - cout, printf
+- [【ITP1_1_B】x_cubic](ITP1_1_B/x_cubic.md)
+  - **問題文の見方** - Constraints
+- [【ITP1_1_D】watch](ITP1_1_D/watch.md)
+  - **演算子** - オペランド, 演算子
+- [【ITP1_2_C】sorting_three_numbers](ITP1_2_C/sorting_three_numbers.md)
+  - **ソート** - 多重条件分岐, 値の入れ替え
+- [【ITP1_3_B】print_test_cases](ITP1_3_B/print_test_cases.md)
+  - **繰り返し処理** - 無限ループを```break```文で抜ける例
+- [★【ITP1_4_A】a_b_problem](ITP1_4_A/a_b_problem.md)
+  - **混合演算, 表示桁数** - ```fixed```
+- [★【ITP1_4_D】min_max_and_sum](ITP1_4_D/min_max_and_sum.md)
+  - **型の表現範囲** - ```long long```
+- [【ITP1_6_B】finding_missing_cards](ITP1_6_B/finding_missing_cards.md)
+  - **多次元配列の宣言, 配列における要素検索** - ```distance()```, ```scanf()```
+- [【ITP1_6_C】official_house](ITP1_6_C/official_house.md)
+- [【ITP1_6_D】matrix_vector_multiplication](ITP1_6_D/matrix_vector_multiplication.md)
+  - **行列とベクトルの積**
+- [【ITP1_7_B】how_many_ways](ITP1_7_B/how_many_ways.md)
+- [【ITP1_7_C】spreadsheet](ITP1_7_C/spreadsheet.md)
+- [【ITP1_7_D】matrix_multiplication](ITP1_7_D/matrix_multiplication.md)
+  - **行列と行列の積** - 3重ループ, ```long long int```
+- [【ITP1_8_A】toggling_cases](ITP1_8_A/toggling_cases.md)
+  - **文字コード** - 符号化文字集合, 文字符号化方式
+- [【ITP1_8_B】sum_of_numbers](ITP1_8_B/sum_of_numbers.md)
+  - **標準入力** - ```cin```, ```string```
+- [【ITP1_8_C】counting_characters](ITP1_8_C/counting_characters.md)
+  - **EOFまで読み込む方法**
+- [【ITP1_8_D】ring](ITP1_8_D/ring.md)
+- [【ITP1_9_B】shuffle](ITP1_9_B/shuffle.md)
+  - **部分文字列** - ```substr()```
+- [【ITP1_9_D】transformation](ITP1_9_D/transformation.md)
+  - **文字列のメンバ関数** - ```substr()```, ```replace()```
+- [【ITP1_10_B】triangle](ITP1_10_B/triangle.md)
+  - **度からラジアンへ**, **```PI```の算出方法**, **余弦定理**, **三角形の面積**
+- [【ITP1_10_C】standard_deviation](ITP1_10_C/standard_deviation.md)
+  - **配列の合計値** - ```accumulate()```
+- [【ITP1_10_D】distance_II](ITP1_10_D/distance_II.md)
+  - **ミンコフスキー距離とは何か**
